@@ -1,0 +1,11 @@
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\bin\Debug\ConnectToCRM.exe.config
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\bin\Debug\ConnectToCRM.exe
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\bin\Debug\ConnectToCRM.pdb
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\bin\Debug\Microsoft.IdentityModel.dll
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\obj\Debug\ConnectToCRM.csprojResolveAssemblyReference.cache
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\obj\Debug\ConnectToCRM.exe
+C:\workspace\studio workspace\SenderPlugin\ConnectToCRM\ConnectToCRM\obj\Debug\ConnectToCRM.pdb
